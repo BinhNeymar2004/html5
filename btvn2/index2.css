@@ -1,0 +1,13 @@
+img.x { position:absolute; left:0px; top: 0px; z-index:-1;}
+p {
+    font-size: 40px;
+}
+
+h1{
+    text-align: center;
+    padding: 250px 0;
+    font-size: 80px;
+    position:absolute;
+    top:15px;
+
+  }
